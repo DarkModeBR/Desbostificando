@@ -15,6 +15,11 @@
 
 
 ## 🦁┃Brave
+> [!NOTE]  
+> No Brave, foram desativados: telemetrias, Leo (IA), anúncios e bloatware visual.
+<details>
+  <summary>Clique para ver</summary>
+  
 > Na página inicial do Brave, clique no ícone de engrenagem localizado no canto superior direito da guia inicial e faça as seguintes configurações, ativando ou desativando as opções abaixo:
 
 - <strong>Imagem de fundo</strong>
@@ -28,7 +33,7 @@
   - Estatísticas do Brave = <strong>Ativado</strong>
   - Brave VPN = <strong>Desativado</strong>
   - Recompensas Brave = <strong>Desativado</strong>
-  - brave Talk = <strong>Desativado</strong>
+  - Brave Talk = <strong>Desativado</strong>
 
 <br>
 
@@ -92,3 +97,14 @@
   - Avisar antes de fechar janela com mais de uma guia = <strong>Desativado</strong>
   - Mostrar lembrete em tela cheia para pressionar Esc ao sair = <strong>Desativado</strong>
   - Use o protocolo WireGuard no Brave VPN = <strong>Desativado</strong>
+</details>
+
+<br><br>
+
+## 🦊┃FireFox
+
+
+
+<br><br>
+
+## 🌐┃Chrome
