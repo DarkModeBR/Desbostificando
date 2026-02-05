@@ -12,11 +12,11 @@
 
 ## 👀┃Índice
 
-- Navegadores
-  - [Microsoft Edge](https://github.com/DarkModeBR/Desbostificando/edit/main/README.md#microsoft-edge)
-  - [Chrome](https://github.com/DarkModeBR/Desbostificando/edit/main/README.md#%C3%ADndice)
-  - [Brave](https://github.com/DarkModeBR/Desbostificando/edit/main/README.md#brave)
-  - [Extensões](https://github.com/DarkModeBR/Desbostificando/edit/main/README.md#extens%C3%B5es)
+- <strong>Navegadores</strong>
+  - [Microsoft Edge](https://github.com/DarkModeBR/Desbostificando#microsoft-edge)
+  - [Chrome](https://github.com/DarkModeBR/Desbostificando#chrome)
+  - [Brave](https://github.com/DarkModeBR/Desbostificando#brave)
+  - [Extensões](https://github.com/DarkModeBR/Desbostificando#extens%C3%B5es)
 
 <br><br>
 
