@@ -8,15 +8,69 @@
 
 ---
 
-<br><br>
+<br>
 
 ## 👀┃Índice
 
+- Navegadores
+  - [Microsoft Edge](https://github.com/DarkModeBR/Desbostificando/edit/main/README.md#microsoft-edge)
+  - [Chrome](https://github.com/DarkModeBR/Desbostificando/edit/main/README.md#%C3%ADndice)
+  - [Brave](https://github.com/DarkModeBR/Desbostificando/edit/main/README.md#brave)
+  - [Extensões](https://github.com/DarkModeBR/Desbostificando/edit/main/README.md#extens%C3%B5es)
 
+<br><br>
+
+## 🪟┃Microsoft Edge
+
+<details>
+  <summary>Clique para ver</summary>
+
+  > Na página inicial do Brave, clique no ícone de engrenagem localizado no canto superior direito da guia inicial e faça as seguintes configurações, ativando ou desativando as opções abaixo:
+
+  - <strong>Configurações da página</strong>
+    - Links rápidos = <strong>Desativado</strong>
+    - Mostrar os links promovidos = <strong>Desativado</strong>
+    - Abrir em uma nova guia = <strong>Desativado</strong>
+    - Mostrar conteúdo = <strong>Desativado</strong>
+    - Mostrar feed = <strong>Desativado</strong>
+    - Tela de fundo = <strong>Desativado</strong>
+    - Mostrar clima = <strong>Desativado</strong>
+</details>
+
+<br>
+
+## 🌐┃Chrome
+
+<details>
+  <summary>Clique para ver</summary>
+
+  > Clique nos três pontinhos localizadas no canto superior direito. Após isso, entre no menu de Configurações e ative ou desative as seguintes opções:
+
+  - <strong>Desempenho</strong>
+    - Alertas de problemas de desempenho = <strong>Desativado</strong>
+    - Aparência de guias inativas = <strong>Desativado</strong>
+    - Economia de memória = <strong>Ativado</strong>
+  - <strong>Aparência</strong>
+    - Mostrar grupos de guias na barra de favoritos = <strong>Desativado</strong>
+    - Fixar automaticamente os novos grupos de guias criados em qualquer dispositivo na barra de favoritos = <strong>Desativado</strong>
+    - Mostrar imagens de prévia da guia = <strong>Desativado</strong>
+    - Mostrar uso de memória da guia =<strong>Desativado</strong>
+    - Permitir arrastar e soltar na visualização dividida na borda esquerda ou direita da janela = <strong>Desativado</strong>
+  - <strong>Idiomas</strong>
+    - Verificar se há erros de ortografia ao digitar texto em páginas da web = <strong>Desativado</strong>
+    - Usar o Google Tradutor = <strong>Desativado</strong>
+  - <strong>Acessibilidade</strong>
+    - Deslizar entre páginas = <strong>Desativado</strong>
+    - Confirmações de item copiado para a área de transferencia = <strong>Desativado</strong>
+  - <strong>Sistema</strong>
+    - Executar aplicativos em segundo plano quando o Google Chrome estiver fechado = <strong>Desativado</strong>
+    - Mostrar notificações do sistema sobre recursos e dicas do Chrome = <strong>Desativado</strong>
+</details>
+
+<br>
 
 ## 🦁┃Brave
-> [!NOTE]  
-> No Brave, foram desativados: telemetrias, Leo (IA), anúncios e bloatware visual.
+
 <details>
   <summary>Clique para ver</summary>
   
@@ -99,12 +153,21 @@
   - Use o protocolo WireGuard no Brave VPN = <strong>Desativado</strong>
 </details>
 
-<br><br>
+<br>
 
-## 🦊┃FireFox
+## 🧰┃Extensões
 
+<details>
+  <summary>Clique para ver</summary>
 
+  > Aqui você verá as melhores extensões para adicionar ao navegador! ( A maioria das extensões é para navegadores baseados em Chromium )
 
-<br><br>
-
-## 🌐┃Chrome
+  - <strong>Obrigatórias</strong>
+    - [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh) - O melhor bloqueador de anúncios para navegadores baseados em Chromium ( leve, otimizado e com baixo uso de RAM )
+    - [Violentmonkey](https://chrome.google.com/webstore/detail/violent-monkey/jinjaccalgkegednnccohejagnlnfdag) - Um gerenciador simples, leve e muito bem otimizado de userscripts para o navegador, permitindo adicionar vários scripts úteis. Minha recomendação é usar o: [Bypass All Shortlinks](https://codeberg.org/gongchandang49/bypass-all-shortlinks-debloated/raw/branch/main/Bypass_All_Shortlinks.user.js).
+  - <strong>Privacidade</strong>
+    - [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) - Local CDN: substitui scripts de CDNs externas por versões armazenadas localmente no navegador.
+    - [TempmailBee](https://chromewebstore.google.com/detail/tempmailbee-extension-ins/emeajnhkkdfpfdamhemopmmmbgehmpce) - Extensão onde você pode gerar e-mails temporários diretamente pelo menu da extensão.
+    - [Bypass Paywalls](https://gitflic.ru/project/magnolia1234/bpc_uploads) - Extensão externa para bloquear/remover pop-ups e paywalls de sites ( é necessário saber instalar extensões externas )
+    - [ClearURLs](https://docs.clearurls.xyz/) - Extensão também externa que serve para remover, limpar ou bloquear telemetrias de links que você copia ou acessa ( é necessário saber instalar extensões externas )
+</details>
